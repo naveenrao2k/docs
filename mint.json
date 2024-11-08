@@ -8,11 +8,11 @@
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#fe784e",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "light": "#fe784e",
+    "dark": "#fe784e",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#fe784e",
+      "to": "#fe784e"
     }
   },
   "topbarLinks": [
