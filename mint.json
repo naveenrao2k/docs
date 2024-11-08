@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "RemoveQ",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/removeq_dark.svg",
+    "light": "/logo/removeq_light.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://cdn.removeq.com/@files/media/vishalvkv95/AfPWFLm7.png",
   "colors": {
     "primary": "#fe784e",
     "light": "#fe784e",
@@ -35,7 +35,7 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://docs.removeq.com"
     },
     {
       "name": "Community",
